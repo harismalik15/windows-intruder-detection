@@ -196,11 +196,5 @@ This project is intended for **personal security and educational purposes only**
 
 ## Author
 
-Developed by Muhammad Jibran Malik
-
----
-
-## License
-
-MIT License
+Developed by Muhammad Haris Malik
 

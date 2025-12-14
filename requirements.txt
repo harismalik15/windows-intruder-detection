@@ -1,0 +1,3 @@
+opencv-python
+cryptography
+install these libaries 
